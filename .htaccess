@@ -1,0 +1,6 @@
+ErrorDocument 404 http://www.cubetech.ch/index.php
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^([^.]+).(ch)
+RewriteRule ^(.*) http://www.%1.%2/$1 [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.(html?|php)\ HTTP/
+RewriteRule ^index\.(html?|php)$ http://www.cubetech.ch/ [R=301,L]
