@@ -16,6 +16,7 @@
 		<META NAME="Subject" CONTENT="Informatik">
 		<META NAME="Language" CONTENT="DE">
 		<META NAME="Robots" CONTENT="index,follow">
+		<link rel="shortcut icon" href="http://www.cubetech.ch/favicon.ico" />
 		<link rel="stylesheet" href="css/style.css" type="text/css" />
 		<link href='http://fonts.googleapis.com/css?family=Cambo' rel='stylesheet' type='text/css'>
 		<!--[if IE]>
