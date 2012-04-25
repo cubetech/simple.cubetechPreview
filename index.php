@@ -1,6 +1,6 @@
 <?php 
 
-	$submit = $_GET['submit'];
+	$submit = @$_GET['submit'];
 
 ?>
 
@@ -10,6 +10,12 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>cubetech - Web, Hosting, Design, Infrastruktur, Mac, Linux</title>
+		<META NAME="Keywords" CONTENT="cubetech, hosting, web, webdesign, schweiz, infrastruktur, plone, mac, linux, windows, exchange, blog, seo">
+		<META NAME="Description" CONTENT="cubetech ist eine Berner Web- und Dienstleistungsagentur">
+		<META NAME="Author" CONTENT="cubetech GmbH, http://www.cubetech.ch">
+		<META NAME="Subject" CONTENT="Informatik">
+		<META NAME="Language" CONTENT="DE">
+		<META NAME="Robots" CONTENT="index,follow">
 		<link rel="stylesheet" href="css/style.css" type="text/css" />
 		<link href='http://fonts.googleapis.com/css?family=Cambo' rel='stylesheet' type='text/css'>
 		<!--[if IE]>
@@ -75,13 +81,13 @@
 			<div id="right">
 				<h2>Kontaktiere uns!</h2>
 				<div id="error">&nbsp;</div>
-				<h3>Adresse</h3>
+				<h3>Adresse (ab 1.Mai 2012)</h3>
 				<div id="address">
-					Winkelriedstrasse 42b<br />
-					3014 Bern (Schweiz)<br />
+					Marzilistrasse 7<br />
+					3005 Bern (Schweiz)<br />
 				</div>
 				<div id="gmaps">
-					<a href="http://g.co/maps/btdvb" target="_blank"><img src="_image/google-maps-icon.png" alt="googlemaps" style="width: 3.5em;" /></a>
+					<a href="http://g.co/maps/2sjhk" target="_blank"><img src="_image/google-maps-icon.png" alt="googlemaps" style="width: 3.5em;" /></a>
 				</div>
 				<h3>Telefon</h3>
 				+41 (0) 31 511 51 59<br />
