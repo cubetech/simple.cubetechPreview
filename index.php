@@ -9,13 +9,14 @@
 
 	<head>
 		<meta charset="utf-8" />
-		<title>cubetech - Web, Hosting, Design, Infrastruktur, Mac, Linux</title>
-		<META NAME="Keywords" CONTENT="cubetech, hosting, web, webdesign, schweiz, infrastruktur, plone, mac, linux, windows, exchange, blog, seo">
-		<META NAME="Description" CONTENT="cubetech ist eine Berner Web- und Dienstleistungsagentur">
+		<title>cubetech GmbH - Webdesign, Webapplikationen, Social Media, Infrastruktur</title>
+		<META NAME="Keywords" CONTENT="cubetech, gmbh, hosting, web, webdesign, schweiz, infrastruktur, plone, mac, linux, windows, exchange, blog, seo, social media, facebook, twitter, neue medien">
+		<META NAME="Description" CONTENT="cubetech GmbH ist eine Berner Web- und Dienstleistungsagentur">
 		<META NAME="Author" CONTENT="cubetech GmbH, http://www.cubetech.ch">
 		<META NAME="Subject" CONTENT="Informatik">
 		<META NAME="Language" CONTENT="DE">
 		<META NAME="Robots" CONTENT="index,follow">
+		<meta name="google-site-verification" content="vxwzT2rkJltUmmQ3dx-u2dYwxuny21VIZB2hKxQeyV4" />
 		<link rel="shortcut icon" href="http://www.cubetech.ch/favicon.ico" />
 		<link rel="stylesheet" href="css/style.css" type="text/css" />
 		<link href='http://fonts.googleapis.com/css?family=Cambo' rel='stylesheet' type='text/css'>
@@ -41,7 +42,7 @@
 			</div>
 			<div id="banner" style="">
 				<h1>Wir sind noch nicht ganz fertig.</h1>
-				<h4>cubetech ist ein Berner Web- und Dienstleistungsunternehmen.</h4>
+				<h4>cubetech GmbH ist ein Berner Web- und Dienstleistungsunternehmen.</h4>
 			</div>
 		</div>
 		<div id="container">
@@ -84,6 +85,7 @@
 				<div id="error">&nbsp;</div>
 				<h3>Adresse (ab 1.Mai 2012)</h3>
 				<div id="address">
+					cubetech GmbH<br />
 					Marzilistrasse 7<br />
 					3005 Bern (Schweiz)<br />
 				</div>
